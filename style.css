@@ -1,0 +1,54 @@
+body{
+    color: blue;
+}
+button{color: blue;
+
+}
+h1{color: green;}
+body{
+font-family: Arial,Arial, Helvetica, sans-serif ; margin: 20px;
+}
+fieldset {
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding: 10px ;
+    margin-bottom: 20px;
+}
+legend{
+font-weight: bold;
+}
+label{
+display:block;
+/*display is block*/
+margin: 10px 0 5px;
+}
+input, select, textarea{
+width: 200px;
+padding: 8px;
+margin-bottom: 10px;
+box-sizing: border-box;
+}
+button {
+padding: 10px 20px;
+background-color: #007BFF;
+color: #007BFF; 
+color: white; 
+border-bottom: 3px solid red;
+cursor: pointer;
+}
+button:hover{
+background:color(srgb red green blue);
+}
+.info {
+color: white
+}
+     color:red
+    input[name="gender"] {
+        border: 1px s0lid white;
+        padding: 5px;
+        width:100%;
+    }
+.info{
+    font-size: 1.5em;
+}
